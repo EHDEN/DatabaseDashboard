@@ -99,7 +99,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Data Density
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('dashboard', 'data-density')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="DataDensity" class="chartcontainer"></div>
@@ -110,7 +110,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Mapping Status
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('dashboard', 'mapping-status')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="mappingStatus" class="chartcontainer"></div>
@@ -124,7 +124,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Year of Birth
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('dashboard', 'year-of-birth')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="birthYearHist" class="chartcontainer"></div>
@@ -135,7 +135,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Gender Distribution by Age
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('dashboard', 'gender-distribution-by-age')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="genderAge" class="chartcontainer"></div>
@@ -143,7 +143,7 @@
 				</div>
 			</div>
 		</div>
-	</div>-
+	</div>
 
 
 	<div id="reportPopulation" class="report">
@@ -154,7 +154,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Population at Start of Observation
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('population', 'at-start-of-observation')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="genderAge" class="chartcontainer"></div>
@@ -165,7 +165,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Population by Year
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('population', 'by-year')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="populationPyramide" class="chartcontainer"></div>
@@ -179,7 +179,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Birth Date
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('population', 'birth-date')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="birthYearHist" class="chartcontainer"></div>
@@ -190,7 +190,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Persons with continuous observation by year
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('population', 'continuous-observation-by-year')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="observationYear" class="chartcontainer"></div>
@@ -204,7 +204,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Cumulative Observation
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('population', 'cumulative-observation')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="cumulativeObservation" class="chartcontainer"></div>
@@ -215,7 +215,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Observation Length
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('population', 'observation-length')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="observationLength" class="chartcontainer"></div>
@@ -226,7 +226,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Number of observation periods
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('population', 'number-of-observation-periods')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="observationPeriods" class="chartcontainer"></div>
@@ -241,7 +241,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Persons with continuous observation by month
-						<i class="fa fa-question-circle pull-right"></i>
+						<i data-bind="click: () => showModal('population', 'persons-with-continuous-observation-by-month')" class="fa fa-question-circle pull-right"></i>
 					</div>
 					<div class="panel-body-center">
 						<div id="observationMonth" class="chartcontainer"></div>
@@ -250,6 +250,10 @@
 			</div>
 		</div>
 	</div>
+
+	<modal-popup params="showModal: modalVisible, title: modalTitle, data: modalBody">
+		<div class="modal-body" data-bind="text: $component.data"></div>
+	</modal-popup>
 
 	<!-- Footer -->
 	<div class="navbar text-center">

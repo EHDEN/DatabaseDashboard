@@ -1,13 +1,16 @@
 (function () {
 	curl([
+		"require",
 		"jquery",
 		"d3",
 		"knockout",
 		"common",
 		"app/reports",
+		'text!./app/resources/report-help.json',
 		"bootstrap",
-		"d3/tip"
-	], function ($, d3, ko, common, reports) {
+		"d3/tip",
+		"app/components/modal"
+	], function (require, $, d3, ko, common, reports, reportHelp) {
 		/* reads the summary data for each report and stores it in a data structure.
 		   in index.html the binding to this data structure is made */
 		function summaryViewModel() {
@@ -15,6 +18,7 @@
 
 			self.dashboardData = ko.observable();
 			self.populationData = ko.observable();
+			self.reportHelp = JSON.parse(reportHelp);
 
 			self.datasource = ko.observable({
 				name: 'loading...'
@@ -62,6 +66,18 @@
 			//help messages
 			self.helpBirthDateOpened = ko.observable(false);
 
+			// modal
+			self.modalVisible = ko.observable(false);
+			self.modalTitle = ko.observable(null);
+			self.modalBody = ko.observable(null);
+	
+			self.showModal = function(section, key) {
+				// Use the key to look up the value
+				let helpBlock = self.reportHelp[section][key];
+				self.modalTitle(helpBlock.title);
+				self.modalBody(helpBlock.body);
+				self.modalVisible(true);
+			}
 		}
 
 		var viewModel = new summaryViewModel();

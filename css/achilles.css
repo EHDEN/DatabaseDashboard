@@ -416,3 +416,7 @@ table.dataTable tbody tr.odd.selected {
     padding-top:20px;
     color: rgba(0, 0, 0, 0.8);
 }
+
+modal-body {
+	padding: 10px;
+}
