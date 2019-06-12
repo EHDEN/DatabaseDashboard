@@ -1,6 +1,5 @@
 (function () {
 	curl([
-		"require",
 		"jquery",
 		"d3",
 		"knockout",
@@ -10,7 +9,7 @@
 		"bootstrap",
 		"d3/tip",
 		"app/components/modal"
-	], function (require, $, d3, ko, common, reports, reportHelp) {
+	], function ($, d3, ko, common, reports, reportHelp) {
 		/* reads the summary data for each report and stores it in a data structure.
 		   in index.html the binding to this data structure is made */
 		function summaryViewModel() {
