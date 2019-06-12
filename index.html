@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<script src="https://cdn.jsdelivr.net/npm/vega@5.4.0/build/vega.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/vega-lite@3.3.0/build/vega-lite.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/vega-embed@4.2.0/build/vega-embed.js"></script>
+
+	<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+	<script src="https://cdn.jsdelivr.net/npm/vega-embed@4"></script>
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Database Dashboard</title>
+	<link href="css/jquery.datatables.css" rel="stylesheet" />
+	<link href="css/jquery.datatables.tabletools.css" rel="stylesheet" />
+	<link href="css/jquery.datatables.colvis.css" rel="stylesheet" />
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/achilles.css" rel="stylesheet">
+	<link href="css/chart.css" rel="stylesheet">
+	<link href="css/font-awesome.min.css" rel="stylesheet">
+
+	<script>
+		var report = 'dashboard';
+		var page_vm = {};
+		var datasourcepath = 'data/datasources.json';
+
+		function updateReport(value) {
+			report = value;
+			updateRoute();
+		}
+
+		function setDatasource(index) {
+			page_vm.datasource(page_vm.datasources[index]);
+			updateRoute();
+		}
+
+		function updateRoute() {
+
+			$('.reportDrilldown').addClass('hidden');
+			document.location = '#/' + page_vm.datasource().name + '/' + report;
+		}
+	</script>
+
+	<script src="js/curl.config.js"></script>
+	<script src="js/curl.js"></script>
+	<script src="js/app/databasedashboard.js"></script>
+</head>
+
+<body>
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse-menu">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a href class="navbar-brand" >
+					<img data-bind="attr: { src: 'images/flags/'+datasource().country+'.svg' }"/>
+					<span data-bind="text:datasource().name"></span>
+				</a>
+
+			</div>
+			<div class="collapse navbar-collapse" id="collapse-menu">
+				<ul class="nav navbar-nav navbar-right">
+					<li>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Reports <b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li onclick="updateReport('dashboard');">Dashboard</li>
+							<li onclick="updateReport('population');">Population</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<div id="reportDashboard" class="report">
+		<div class="reportTitle">Dashboard Report</div>
+		<div class="row">
+			<div class="col-sm-4">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						CDM Summary
+					</div>
+					<div class="panel-body">
+						<div class="col-sm-12 DashboardSummary">
+							<div  data-bind="template: {if: dashboardData, name: 'attributeValueTable', data: function() { return dashboardData().SUMMARY}}"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Data Density
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="DataDensity" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Mapping Status
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="mappingStatus" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-8">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Year of Birth
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="birthYearHist" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Gender Distribution by Age
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="genderAge" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>-
+
+
+	<div id="reportPopulation" class="report">
+		<div class="reportTitle">Population</div>
+
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Population at Start of Observation
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="genderAge" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Population by Year
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="populationPyramide" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-8">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Birth Date
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="birthYearHist" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Persons with continuous observation by year
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="observationYear" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-4">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Cumulative Observation
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="cumulativeObservation" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Observation Length
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="observationLength" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Number of observation periods
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="observationPeriods" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+
+			<div class="col-sm-4">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						Persons with continuous observation by month
+						<i class="fa fa-question-circle pull-right"></i>
+					</div>
+					<div class="panel-body-center">
+						<div id="observationMonth" class="chartcontainer"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Footer -->
+	<div class="navbar text-center">
+			Report generated on 2019-06-10 4:16 pm
+	</div>
+	<!-- Footer -->
+</body>
+
+</html>

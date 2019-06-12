@@ -1,0 +1,6834 @@
+[
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 1,
+    "count": 430,
+    "rate": 2.1,
+    "date": "2000-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 2,
+    "count": 409,
+    "rate": 2,
+    "date": "2000-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 3,
+    "count": 311,
+    "rate": 1.5,
+    "date": "2000-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 4,
+    "count": 269,
+    "rate": 1.3,
+    "date": "2000-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 5,
+    "count": 370,
+    "rate": 1.9,
+    "date": "2000-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 6,
+    "count": 603,
+    "rate": 3.1,
+    "date": "2000-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 7,
+    "count": 545,
+    "rate": 2.9,
+    "date": "2000-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 8,
+    "count": 583,
+    "rate": 3.1,
+    "date": "2000-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 9,
+    "count": 408,
+    "rate": 2.1,
+    "date": "2000-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 10,
+    "count": 391,
+    "rate": 2,
+    "date": "2000-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 11,
+    "count": 384,
+    "rate": 1.9,
+    "date": "2000-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2000,
+    "month": 12,
+    "count": 365,
+    "rate": 1.8,
+    "date": "2000-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 1,
+    "count": 463,
+    "rate": 2.3,
+    "date": "2001-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 2,
+    "count": 298,
+    "rate": 1.5,
+    "date": "2001-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 3,
+    "count": 355,
+    "rate": 1.8,
+    "date": "2001-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 4,
+    "count": 369,
+    "rate": 1.9,
+    "date": "2001-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 5,
+    "count": 361,
+    "rate": 1.8,
+    "date": "2001-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 6,
+    "count": 525,
+    "rate": 2.7,
+    "date": "2001-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 7,
+    "count": 548,
+    "rate": 2.8,
+    "date": "2001-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 8,
+    "count": 540,
+    "rate": 2.8,
+    "date": "2001-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 9,
+    "count": 438,
+    "rate": 2.2,
+    "date": "2001-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 10,
+    "count": 429,
+    "rate": 2.2,
+    "date": "2001-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 11,
+    "count": 420,
+    "rate": 2.1,
+    "date": "2001-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2001,
+    "month": 12,
+    "count": 419,
+    "rate": 2.1,
+    "date": "2001-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 1,
+    "count": 486,
+    "rate": 2.4,
+    "date": "2002-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 2,
+    "count": 508,
+    "rate": 2.5,
+    "date": "2002-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 3,
+    "count": 477,
+    "rate": 2.4,
+    "date": "2002-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 4,
+    "count": 447,
+    "rate": 2.2,
+    "date": "2002-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 5,
+    "count": 484,
+    "rate": 2.3,
+    "date": "2002-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 6,
+    "count": 561,
+    "rate": 2.8,
+    "date": "2002-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 7,
+    "count": 645,
+    "rate": 3.2,
+    "date": "2002-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 8,
+    "count": 596,
+    "rate": 3,
+    "date": "2002-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 9,
+    "count": 530,
+    "rate": 2.6,
+    "date": "2002-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 10,
+    "count": 499,
+    "rate": 2.5,
+    "date": "2002-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 11,
+    "count": 468,
+    "rate": 2.3,
+    "date": "2002-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2002,
+    "month": 12,
+    "count": 446,
+    "rate": 2.2,
+    "date": "2002-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 1,
+    "count": 571,
+    "rate": 2.8,
+    "date": "2003-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 2,
+    "count": 483,
+    "rate": 2.4,
+    "date": "2003-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 3,
+    "count": 526,
+    "rate": 2.6,
+    "date": "2003-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 4,
+    "count": 440,
+    "rate": 2.2,
+    "date": "2003-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 5,
+    "count": 478,
+    "rate": 2.4,
+    "date": "2003-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 6,
+    "count": 704,
+    "rate": 3.5,
+    "date": "2003-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 7,
+    "count": 749,
+    "rate": 3.8,
+    "date": "2003-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 8,
+    "count": 745,
+    "rate": 3.7,
+    "date": "2003-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 9,
+    "count": 556,
+    "rate": 2.7,
+    "date": "2003-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 10,
+    "count": 500,
+    "rate": 2.4,
+    "date": "2003-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 11,
+    "count": 542,
+    "rate": 2.7,
+    "date": "2003-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2003,
+    "month": 12,
+    "count": 516,
+    "rate": 2.5,
+    "date": "2003-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 1,
+    "count": 511,
+    "rate": 2.5,
+    "date": "2004-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 2,
+    "count": 490,
+    "rate": 2.4,
+    "date": "2004-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 3,
+    "count": 530,
+    "rate": 2.6,
+    "date": "2004-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 4,
+    "count": 433,
+    "rate": 2.1,
+    "date": "2004-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 5,
+    "count": 468,
+    "rate": 2.3,
+    "date": "2004-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 6,
+    "count": 580,
+    "rate": 2.8,
+    "date": "2004-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 7,
+    "count": 741,
+    "rate": 3.7,
+    "date": "2004-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 8,
+    "count": 676,
+    "rate": 3.3,
+    "date": "2004-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 9,
+    "count": 568,
+    "rate": 2.7,
+    "date": "2004-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 10,
+    "count": 561,
+    "rate": 2.7,
+    "date": "2004-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 11,
+    "count": 514,
+    "rate": 2.4,
+    "date": "2004-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2004,
+    "month": 12,
+    "count": 499,
+    "rate": 2.4,
+    "date": "2004-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 1,
+    "count": 555,
+    "rate": 2.6,
+    "date": "2005-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 2,
+    "count": 472,
+    "rate": 2.3,
+    "date": "2005-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 3,
+    "count": 468,
+    "rate": 2.2,
+    "date": "2005-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 4,
+    "count": 478,
+    "rate": 2.3,
+    "date": "2005-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 5,
+    "count": 453,
+    "rate": 2.1,
+    "date": "2005-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 6,
+    "count": 681,
+    "rate": 3.2,
+    "date": "2005-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 7,
+    "count": 683,
+    "rate": 3.3,
+    "date": "2005-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 8,
+    "count": 664,
+    "rate": 3.2,
+    "date": "2005-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 9,
+    "count": 568,
+    "rate": 2.7,
+    "date": "2005-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 10,
+    "count": 502,
+    "rate": 2.4,
+    "date": "2005-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 11,
+    "count": 494,
+    "rate": 2.4,
+    "date": "2005-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2005,
+    "month": 12,
+    "count": 393,
+    "rate": 1.9,
+    "date": "2005-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 1,
+    "count": 457,
+    "rate": 2.2,
+    "date": "2006-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 2,
+    "count": 472,
+    "rate": 2.3,
+    "date": "2006-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 3,
+    "count": 461,
+    "rate": 2.2,
+    "date": "2006-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 4,
+    "count": 414,
+    "rate": 2,
+    "date": "2006-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 5,
+    "count": 429,
+    "rate": 2.1,
+    "date": "2006-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 6,
+    "count": 578,
+    "rate": 2.8,
+    "date": "2006-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 7,
+    "count": 659,
+    "rate": 3.2,
+    "date": "2006-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 8,
+    "count": 595,
+    "rate": 2.9,
+    "date": "2006-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 9,
+    "count": 396,
+    "rate": 1.9,
+    "date": "2006-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 10,
+    "count": 424,
+    "rate": 2,
+    "date": "2006-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 11,
+    "count": 400,
+    "rate": 1.9,
+    "date": "2006-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2006,
+    "month": 12,
+    "count": 395,
+    "rate": 1.9,
+    "date": "2006-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 1,
+    "count": 476,
+    "rate": 2.2,
+    "date": "2007-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 2,
+    "count": 405,
+    "rate": 1.9,
+    "date": "2007-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 3,
+    "count": 419,
+    "rate": 1.9,
+    "date": "2007-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 4,
+    "count": 408,
+    "rate": 1.9,
+    "date": "2007-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 5,
+    "count": 428,
+    "rate": 1.9,
+    "date": "2007-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 6,
+    "count": 572,
+    "rate": 2.7,
+    "date": "2007-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 7,
+    "count": 704,
+    "rate": 3.3,
+    "date": "2007-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 8,
+    "count": 695,
+    "rate": 3.2,
+    "date": "2007-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 9,
+    "count": 525,
+    "rate": 2.4,
+    "date": "2007-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 10,
+    "count": 492,
+    "rate": 2.3,
+    "date": "2007-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 11,
+    "count": 482,
+    "rate": 2.2,
+    "date": "2007-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2007,
+    "month": 12,
+    "count": 451,
+    "rate": 2.1,
+    "date": "2007-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 1,
+    "count": 471,
+    "rate": 2.2,
+    "date": "2008-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 2,
+    "count": 372,
+    "rate": 1.7,
+    "date": "2008-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 3,
+    "count": 425,
+    "rate": 1.9,
+    "date": "2008-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 4,
+    "count": 373,
+    "rate": 1.7,
+    "date": "2008-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 5,
+    "count": 461,
+    "rate": 2.1,
+    "date": "2008-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 6,
+    "count": 654,
+    "rate": 3,
+    "date": "2008-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 7,
+    "count": 770,
+    "rate": 3.6,
+    "date": "2008-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 8,
+    "count": 721,
+    "rate": 3.3,
+    "date": "2008-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 9,
+    "count": 573,
+    "rate": 2.6,
+    "date": "2008-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 10,
+    "count": 552,
+    "rate": 2.5,
+    "date": "2008-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 11,
+    "count": 527,
+    "rate": 2.4,
+    "date": "2008-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2008,
+    "month": 12,
+    "count": 511,
+    "rate": 2.3,
+    "date": "2008-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 1,
+    "count": 652,
+    "rate": 3,
+    "date": "2009-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 2,
+    "count": 563,
+    "rate": 2.6,
+    "date": "2009-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 3,
+    "count": 598,
+    "rate": 2.8,
+    "date": "2009-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 4,
+    "count": 575,
+    "rate": 2.6,
+    "date": "2009-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 5,
+    "count": 702,
+    "rate": 3.1,
+    "date": "2009-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 6,
+    "count": 991,
+    "rate": 4.4,
+    "date": "2009-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 7,
+    "count": 1129,
+    "rate": 5.1,
+    "date": "2009-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 8,
+    "count": 1118,
+    "rate": 5.1,
+    "date": "2009-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 9,
+    "count": 928,
+    "rate": 4.2,
+    "date": "2009-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 10,
+    "count": 785,
+    "rate": 3.5,
+    "date": "2009-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 11,
+    "count": 748,
+    "rate": 3.4,
+    "date": "2009-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2009,
+    "month": 12,
+    "count": 797,
+    "rate": 3.6,
+    "date": "2009-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2010,
+    "month": 1,
+    "count": 948,
+    "rate": 4.3,
+    "date": "2010-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Condition",
+    "year": 2010,
+    "month": 2,
+    "count": 880,
+    "rate": 4,
+    "date": "2010-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 1,
+    "count": 19,
+    "rate": 3.9,
+    "date": "2000-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 2,
+    "count": 25,
+    "rate": 5.5,
+    "date": "2000-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 3,
+    "count": 17,
+    "rate": 3.7,
+    "date": "2000-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 4,
+    "count": 20,
+    "rate": 4.1,
+    "date": "2000-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 5,
+    "count": 27,
+    "rate": 5.3,
+    "date": "2000-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 6,
+    "count": 13,
+    "rate": 2.6,
+    "date": "2000-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 7,
+    "count": 16,
+    "rate": 3.6,
+    "date": "2000-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 8,
+    "count": 23,
+    "rate": 5.1,
+    "date": "2000-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 9,
+    "count": 25,
+    "rate": 5.8,
+    "date": "2000-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 10,
+    "count": 39,
+    "rate": 7.8,
+    "date": "2000-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 11,
+    "count": 11,
+    "rate": 2,
+    "date": "2000-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2000,
+    "month": 12,
+    "count": 20,
+    "rate": 3.8,
+    "date": "2000-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 1,
+    "count": 11,
+    "rate": 2.3,
+    "date": "2001-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 2,
+    "count": 27,
+    "rate": 5.3,
+    "date": "2001-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 3,
+    "count": 14,
+    "rate": 3,
+    "date": "2001-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 4,
+    "count": 24,
+    "rate": 4.7,
+    "date": "2001-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 5,
+    "count": 34,
+    "rate": 5.9,
+    "date": "2001-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 6,
+    "count": 26,
+    "rate": 4.7,
+    "date": "2001-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 7,
+    "count": 17,
+    "rate": 3.1,
+    "date": "2001-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 8,
+    "count": 18,
+    "rate": 3.3,
+    "date": "2001-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 9,
+    "count": 23,
+    "rate": 4.2,
+    "date": "2001-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 10,
+    "count": 32,
+    "rate": 5.4,
+    "date": "2001-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 11,
+    "count": 20,
+    "rate": 3.6,
+    "date": "2001-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2001,
+    "month": 12,
+    "count": 27,
+    "rate": 5.3,
+    "date": "2001-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 1,
+    "count": 33,
+    "rate": 7,
+    "date": "2002-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 2,
+    "count": 35,
+    "rate": 7.5,
+    "date": "2002-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 3,
+    "count": 28,
+    "rate": 5.3,
+    "date": "2002-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 4,
+    "count": 33,
+    "rate": 6.1,
+    "date": "2002-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 5,
+    "count": 25,
+    "rate": 4.9,
+    "date": "2002-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 6,
+    "count": 35,
+    "rate": 7.1,
+    "date": "2002-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 7,
+    "count": 19,
+    "rate": 3.9,
+    "date": "2002-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 8,
+    "count": 32,
+    "rate": 6.3,
+    "date": "2002-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 9,
+    "count": 42,
+    "rate": 7.9,
+    "date": "2002-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 10,
+    "count": 36,
+    "rate": 6.4,
+    "date": "2002-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 11,
+    "count": 32,
+    "rate": 5.4,
+    "date": "2002-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2002,
+    "month": 12,
+    "count": 45,
+    "rate": 7.8,
+    "date": "2002-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 1,
+    "count": 54,
+    "rate": 9,
+    "date": "2003-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 2,
+    "count": 41,
+    "rate": 7.1,
+    "date": "2003-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 3,
+    "count": 46,
+    "rate": 8.2,
+    "date": "2003-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 4,
+    "count": 41,
+    "rate": 7.7,
+    "date": "2003-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 5,
+    "count": 40,
+    "rate": 7.5,
+    "date": "2003-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 6,
+    "count": 36,
+    "rate": 6.8,
+    "date": "2003-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 7,
+    "count": 43,
+    "rate": 7.9,
+    "date": "2003-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 8,
+    "count": 20,
+    "rate": 3.8,
+    "date": "2003-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 9,
+    "count": 25,
+    "rate": 4.6,
+    "date": "2003-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 10,
+    "count": 31,
+    "rate": 5.6,
+    "date": "2003-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 11,
+    "count": 34,
+    "rate": 5.9,
+    "date": "2003-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2003,
+    "month": 12,
+    "count": 32,
+    "rate": 5.6,
+    "date": "2003-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 1,
+    "count": 31,
+    "rate": 5.8,
+    "date": "2004-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 2,
+    "count": 24,
+    "rate": 5,
+    "date": "2004-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 3,
+    "count": 22,
+    "rate": 4.4,
+    "date": "2004-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 4,
+    "count": 34,
+    "rate": 6.4,
+    "date": "2004-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 5,
+    "count": 22,
+    "rate": 4.3,
+    "date": "2004-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 6,
+    "count": 27,
+    "rate": 5,
+    "date": "2004-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 7,
+    "count": 28,
+    "rate": 5.4,
+    "date": "2004-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 8,
+    "count": 10,
+    "rate": 1.9,
+    "date": "2004-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 9,
+    "count": 8,
+    "rate": 1.5,
+    "date": "2004-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 10,
+    "count": 15,
+    "rate": 2.6,
+    "date": "2004-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 11,
+    "count": 20,
+    "rate": 3.3,
+    "date": "2004-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2004,
+    "month": 12,
+    "count": 16,
+    "rate": 2.5,
+    "date": "2004-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 1,
+    "count": 29,
+    "rate": 4.9,
+    "date": "2005-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 2,
+    "count": 25,
+    "rate": 4,
+    "date": "2005-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 3,
+    "count": 32,
+    "rate": 5.2,
+    "date": "2005-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 4,
+    "count": 19,
+    "rate": 2.9,
+    "date": "2005-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 5,
+    "count": 16,
+    "rate": 2.4,
+    "date": "2005-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 6,
+    "count": 25,
+    "rate": 4,
+    "date": "2005-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 7,
+    "count": 22,
+    "rate": 3.7,
+    "date": "2005-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 8,
+    "count": 12,
+    "rate": 2,
+    "date": "2005-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 9,
+    "count": 12,
+    "rate": 2,
+    "date": "2005-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 10,
+    "count": 2,
+    "rate": 0.3,
+    "date": "2005-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 11,
+    "count": 18,
+    "rate": 2.9,
+    "date": "2005-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2005,
+    "month": 12,
+    "count": 23,
+    "rate": 3.5,
+    "date": "2005-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 1,
+    "count": 26,
+    "rate": 3.9,
+    "date": "2006-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 2,
+    "count": 25,
+    "rate": 3.8,
+    "date": "2006-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 3,
+    "count": 14,
+    "rate": 2.1,
+    "date": "2006-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 4,
+    "count": 17,
+    "rate": 2.5,
+    "date": "2006-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 5,
+    "count": 20,
+    "rate": 2.8,
+    "date": "2006-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 6,
+    "count": 31,
+    "rate": 4.3,
+    "date": "2006-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 7,
+    "count": 25,
+    "rate": 3.5,
+    "date": "2006-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 8,
+    "count": 32,
+    "rate": 4.3,
+    "date": "2006-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 9,
+    "count": 14,
+    "rate": 2.1,
+    "date": "2006-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 10,
+    "count": 15,
+    "rate": 2.2,
+    "date": "2006-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 11,
+    "count": 22,
+    "rate": 2.9,
+    "date": "2006-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2006,
+    "month": 12,
+    "count": 25,
+    "rate": 3.4,
+    "date": "2006-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 1,
+    "count": 35,
+    "rate": 4.7,
+    "date": "2007-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 2,
+    "count": 33,
+    "rate": 4.5,
+    "date": "2007-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 3,
+    "count": 24,
+    "rate": 3.2,
+    "date": "2007-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 4,
+    "count": 17,
+    "rate": 2.3,
+    "date": "2007-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 5,
+    "count": 22,
+    "rate": 3,
+    "date": "2007-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 6,
+    "count": 33,
+    "rate": 4.3,
+    "date": "2007-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 7,
+    "count": 33,
+    "rate": 4.3,
+    "date": "2007-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 8,
+    "count": 33,
+    "rate": 4.6,
+    "date": "2007-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 9,
+    "count": 25,
+    "rate": 3.2,
+    "date": "2007-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 10,
+    "count": 9,
+    "rate": 1.3,
+    "date": "2007-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 11,
+    "count": 16,
+    "rate": 2.3,
+    "date": "2007-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2007,
+    "month": 12,
+    "count": 24,
+    "rate": 3.4,
+    "date": "2007-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 1,
+    "count": 28,
+    "rate": 4,
+    "date": "2008-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 2,
+    "count": 16,
+    "rate": 2.2,
+    "date": "2008-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 3,
+    "count": 28,
+    "rate": 3.7,
+    "date": "2008-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 4,
+    "count": 28,
+    "rate": 3.6,
+    "date": "2008-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 5,
+    "count": 28,
+    "rate": 3.4,
+    "date": "2008-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 6,
+    "count": 28,
+    "rate": 3.3,
+    "date": "2008-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 7,
+    "count": 13,
+    "rate": 1.5,
+    "date": "2008-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 8,
+    "count": 17,
+    "rate": 1.9,
+    "date": "2008-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 9,
+    "count": 25,
+    "rate": 2.8,
+    "date": "2008-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 10,
+    "count": 15,
+    "rate": 1.7,
+    "date": "2008-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 11,
+    "count": 32,
+    "rate": 3.7,
+    "date": "2008-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2008,
+    "month": 12,
+    "count": 46,
+    "rate": 5.2,
+    "date": "2008-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 1,
+    "count": 59,
+    "rate": 7,
+    "date": "2009-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 2,
+    "count": 63,
+    "rate": 7.6,
+    "date": "2009-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 3,
+    "count": 105,
+    "rate": 12.6,
+    "date": "2009-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 4,
+    "count": 125,
+    "rate": 16.1,
+    "date": "2009-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 5,
+    "count": 98,
+    "rate": 13.3,
+    "date": "2009-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 6,
+    "count": 100,
+    "rate": 13.6,
+    "date": "2009-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 7,
+    "count": 95,
+    "rate": 12.6,
+    "date": "2009-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 8,
+    "count": 93,
+    "rate": 11.8,
+    "date": "2009-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 9,
+    "count": 76,
+    "rate": 10.7,
+    "date": "2009-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 10,
+    "count": 84,
+    "rate": 10.8,
+    "date": "2009-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 11,
+    "count": 96,
+    "rate": 12,
+    "date": "2009-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2009,
+    "month": 12,
+    "count": 89,
+    "rate": 11.8,
+    "date": "2009-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2010,
+    "month": 1,
+    "count": 68,
+    "rate": 9.1,
+    "date": "2010-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Drug",
+    "year": 2010,
+    "month": 2,
+    "count": 79,
+    "rate": 10.7,
+    "date": "2010-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 1,
+    "count": 745,
+    "rate": 9.7,
+    "date": "2000-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 2,
+    "count": 812,
+    "rate": 10.6,
+    "date": "2000-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 3,
+    "count": 669,
+    "rate": 8.7,
+    "date": "2000-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 4,
+    "count": 447,
+    "rate": 5.8,
+    "date": "2000-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 5,
+    "count": 397,
+    "rate": 5,
+    "date": "2000-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 6,
+    "count": 389,
+    "rate": 4.6,
+    "date": "2000-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 7,
+    "count": 384,
+    "rate": 4.4,
+    "date": "2000-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 8,
+    "count": 446,
+    "rate": 5.1,
+    "date": "2000-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 9,
+    "count": 386,
+    "rate": 4.6,
+    "date": "2000-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 10,
+    "count": 417,
+    "rate": 4.9,
+    "date": "2000-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 11,
+    "count": 482,
+    "rate": 5.7,
+    "date": "2000-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2000,
+    "month": 12,
+    "count": 580,
+    "rate": 6.8,
+    "date": "2000-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 1,
+    "count": 836,
+    "rate": 9.8,
+    "date": "2001-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 2,
+    "count": 826,
+    "rate": 9.9,
+    "date": "2001-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 3,
+    "count": 683,
+    "rate": 8.4,
+    "date": "2001-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 4,
+    "count": 596,
+    "rate": 7.1,
+    "date": "2001-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 5,
+    "count": 478,
+    "rate": 5.6,
+    "date": "2001-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 6,
+    "count": 443,
+    "rate": 5.1,
+    "date": "2001-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 7,
+    "count": 447,
+    "rate": 4.9,
+    "date": "2001-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 8,
+    "count": 522,
+    "rate": 5.8,
+    "date": "2001-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 9,
+    "count": 489,
+    "rate": 5.5,
+    "date": "2001-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 10,
+    "count": 535,
+    "rate": 6.1,
+    "date": "2001-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 11,
+    "count": 670,
+    "rate": 7.6,
+    "date": "2001-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2001,
+    "month": 12,
+    "count": 785,
+    "rate": 9,
+    "date": "2001-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 1,
+    "count": 1211,
+    "rate": 13.6,
+    "date": "2002-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 2,
+    "count": 1060,
+    "rate": 12.2,
+    "date": "2002-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 3,
+    "count": 1009,
+    "rate": 11.8,
+    "date": "2002-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 4,
+    "count": 855,
+    "rate": 10.1,
+    "date": "2002-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 5,
+    "count": 626,
+    "rate": 7.4,
+    "date": "2002-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 6,
+    "count": 593,
+    "rate": 6.9,
+    "date": "2002-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 7,
+    "count": 594,
+    "rate": 6.9,
+    "date": "2002-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 8,
+    "count": 654,
+    "rate": 7.4,
+    "date": "2002-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 9,
+    "count": 615,
+    "rate": 7,
+    "date": "2002-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 10,
+    "count": 680,
+    "rate": 7.7,
+    "date": "2002-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 11,
+    "count": 758,
+    "rate": 8.5,
+    "date": "2002-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2002,
+    "month": 12,
+    "count": 941,
+    "rate": 10.9,
+    "date": "2002-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 1,
+    "count": 1196,
+    "rate": 14,
+    "date": "2003-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 2,
+    "count": 1173,
+    "rate": 14,
+    "date": "2003-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 3,
+    "count": 987,
+    "rate": 11.8,
+    "date": "2003-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 4,
+    "count": 772,
+    "rate": 9.3,
+    "date": "2003-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 5,
+    "count": 715,
+    "rate": 8.4,
+    "date": "2003-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 6,
+    "count": 710,
+    "rate": 7.9,
+    "date": "2003-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 7,
+    "count": 677,
+    "rate": 7.5,
+    "date": "2003-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 8,
+    "count": 650,
+    "rate": 7.1,
+    "date": "2003-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 9,
+    "count": 681,
+    "rate": 7.6,
+    "date": "2003-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 10,
+    "count": 651,
+    "rate": 7.4,
+    "date": "2003-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 11,
+    "count": 690,
+    "rate": 7.8,
+    "date": "2003-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2003,
+    "month": 12,
+    "count": 813,
+    "rate": 9.3,
+    "date": "2003-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 1,
+    "count": 994,
+    "rate": 11.3,
+    "date": "2004-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 2,
+    "count": 1039,
+    "rate": 11.6,
+    "date": "2004-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 3,
+    "count": 1011,
+    "rate": 11.3,
+    "date": "2004-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 4,
+    "count": 849,
+    "rate": 9.5,
+    "date": "2004-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 5,
+    "count": 665,
+    "rate": 7.4,
+    "date": "2004-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 6,
+    "count": 668,
+    "rate": 7,
+    "date": "2004-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 7,
+    "count": 610,
+    "rate": 6.4,
+    "date": "2004-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 8,
+    "count": 563,
+    "rate": 6,
+    "date": "2004-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 9,
+    "count": 629,
+    "rate": 6.8,
+    "date": "2004-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 10,
+    "count": 635,
+    "rate": 6.9,
+    "date": "2004-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 11,
+    "count": 695,
+    "rate": 7.4,
+    "date": "2004-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2004,
+    "month": 12,
+    "count": 870,
+    "rate": 9.5,
+    "date": "2004-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 1,
+    "count": 1079,
+    "rate": 11.8,
+    "date": "2005-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 2,
+    "count": 1150,
+    "rate": 12.3,
+    "date": "2005-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 3,
+    "count": 961,
+    "rate": 10.3,
+    "date": "2005-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 4,
+    "count": 693,
+    "rate": 7.4,
+    "date": "2005-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 5,
+    "count": 567,
+    "rate": 6.1,
+    "date": "2005-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 6,
+    "count": 559,
+    "rate": 5.7,
+    "date": "2005-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 7,
+    "count": 509,
+    "rate": 5.2,
+    "date": "2005-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 8,
+    "count": 561,
+    "rate": 5.7,
+    "date": "2005-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 9,
+    "count": 572,
+    "rate": 5.7,
+    "date": "2005-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 10,
+    "count": 519,
+    "rate": 5.3,
+    "date": "2005-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 11,
+    "count": 564,
+    "rate": 5.7,
+    "date": "2005-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2005,
+    "month": 12,
+    "count": 813,
+    "rate": 8.2,
+    "date": "2005-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 1,
+    "count": 868,
+    "rate": 9,
+    "date": "2006-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 2,
+    "count": 836,
+    "rate": 8.6,
+    "date": "2006-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 3,
+    "count": 820,
+    "rate": 8.5,
+    "date": "2006-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 4,
+    "count": 674,
+    "rate": 6.9,
+    "date": "2006-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 5,
+    "count": 647,
+    "rate": 6.6,
+    "date": "2006-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 6,
+    "count": 569,
+    "rate": 5.6,
+    "date": "2006-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 7,
+    "count": 633,
+    "rate": 6.1,
+    "date": "2006-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 8,
+    "count": 618,
+    "rate": 5.9,
+    "date": "2006-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 9,
+    "count": 586,
+    "rate": 5.6,
+    "date": "2006-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 10,
+    "count": 456,
+    "rate": 4.5,
+    "date": "2006-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 11,
+    "count": 618,
+    "rate": 6,
+    "date": "2006-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2006,
+    "month": 12,
+    "count": 725,
+    "rate": 6.9,
+    "date": "2006-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 1,
+    "count": 922,
+    "rate": 8.9,
+    "date": "2007-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 2,
+    "count": 1086,
+    "rate": 10.5,
+    "date": "2007-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 3,
+    "count": 924,
+    "rate": 9,
+    "date": "2007-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 4,
+    "count": 853,
+    "rate": 8.6,
+    "date": "2007-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 5,
+    "count": 676,
+    "rate": 6.9,
+    "date": "2007-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 6,
+    "count": 600,
+    "rate": 5.9,
+    "date": "2007-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 7,
+    "count": 617,
+    "rate": 5.9,
+    "date": "2007-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 8,
+    "count": 558,
+    "rate": 5.3,
+    "date": "2007-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 9,
+    "count": 596,
+    "rate": 5.8,
+    "date": "2007-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 10,
+    "count": 641,
+    "rate": 6.1,
+    "date": "2007-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 11,
+    "count": 645,
+    "rate": 6.2,
+    "date": "2007-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2007,
+    "month": 12,
+    "count": 968,
+    "rate": 9.4,
+    "date": "2007-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 1,
+    "count": 1099,
+    "rate": 11,
+    "date": "2008-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 2,
+    "count": 1118,
+    "rate": 11.4,
+    "date": "2008-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 3,
+    "count": 1170,
+    "rate": 12,
+    "date": "2008-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 4,
+    "count": 1057,
+    "rate": 11.1,
+    "date": "2008-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 5,
+    "count": 809,
+    "rate": 8.6,
+    "date": "2008-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 6,
+    "count": 785,
+    "rate": 8.2,
+    "date": "2008-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 7,
+    "count": 783,
+    "rate": 8,
+    "date": "2008-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 8,
+    "count": 814,
+    "rate": 8.2,
+    "date": "2008-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 9,
+    "count": 970,
+    "rate": 9.9,
+    "date": "2008-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 10,
+    "count": 1078,
+    "rate": 10.8,
+    "date": "2008-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 11,
+    "count": 1237,
+    "rate": 12.7,
+    "date": "2008-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2008,
+    "month": 12,
+    "count": 1438,
+    "rate": 15.3,
+    "date": "2008-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 1,
+    "count": 1744,
+    "rate": 18.2,
+    "date": "2009-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 2,
+    "count": 2025,
+    "rate": 21.4,
+    "date": "2009-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 3,
+    "count": 1979,
+    "rate": 21.1,
+    "date": "2009-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 4,
+    "count": 1737,
+    "rate": 18.7,
+    "date": "2009-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 5,
+    "count": 1768,
+    "rate": 19.2,
+    "date": "2009-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 6,
+    "count": 1601,
+    "rate": 17.4,
+    "date": "2009-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 7,
+    "count": 1687,
+    "rate": 18.2,
+    "date": "2009-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 8,
+    "count": 1542,
+    "rate": 16.5,
+    "date": "2009-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 9,
+    "count": 1594,
+    "rate": 17.1,
+    "date": "2009-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 10,
+    "count": 1744,
+    "rate": 18.7,
+    "date": "2009-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 11,
+    "count": 1780,
+    "rate": 19.4,
+    "date": "2009-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2009,
+    "month": 12,
+    "count": 2044,
+    "rate": 22.7,
+    "date": "2009-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2010,
+    "month": 1,
+    "count": 2194,
+    "rate": 24.7,
+    "date": "2010-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Observation",
+    "year": 2010,
+    "month": 2,
+    "count": 2440,
+    "rate": 27.1,
+    "date": "2010-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 1,
+    "count": 734,
+    "rate": 3.6,
+    "date": "2000-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 2,
+    "count": 694,
+    "rate": 3.4,
+    "date": "2000-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 3,
+    "count": 739,
+    "rate": 3.6,
+    "date": "2000-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 4,
+    "count": 736,
+    "rate": 3.7,
+    "date": "2000-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 5,
+    "count": 685,
+    "rate": 3.4,
+    "date": "2000-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 6,
+    "count": 621,
+    "rate": 3.1,
+    "date": "2000-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 7,
+    "count": 708,
+    "rate": 3.6,
+    "date": "2000-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 8,
+    "count": 685,
+    "rate": 3.4,
+    "date": "2000-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 9,
+    "count": 667,
+    "rate": 3.4,
+    "date": "2000-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 10,
+    "count": 693,
+    "rate": 3.6,
+    "date": "2000-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 11,
+    "count": 672,
+    "rate": 3.4,
+    "date": "2000-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2000,
+    "month": 12,
+    "count": 653,
+    "rate": 3.3,
+    "date": "2000-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 1,
+    "count": 911,
+    "rate": 4.6,
+    "date": "2001-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 2,
+    "count": 902,
+    "rate": 4.6,
+    "date": "2001-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 3,
+    "count": 954,
+    "rate": 4.9,
+    "date": "2001-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 4,
+    "count": 855,
+    "rate": 4.4,
+    "date": "2001-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 5,
+    "count": 903,
+    "rate": 4.7,
+    "date": "2001-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 6,
+    "count": 956,
+    "rate": 5,
+    "date": "2001-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 7,
+    "count": 1054,
+    "rate": 5.6,
+    "date": "2001-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 8,
+    "count": 1023,
+    "rate": 5.5,
+    "date": "2001-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 9,
+    "count": 996,
+    "rate": 5.4,
+    "date": "2001-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 10,
+    "count": 1065,
+    "rate": 5.8,
+    "date": "2001-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 11,
+    "count": 1108,
+    "rate": 6,
+    "date": "2001-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2001,
+    "month": 12,
+    "count": 1172,
+    "rate": 6.3,
+    "date": "2001-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 1,
+    "count": 1377,
+    "rate": 7.4,
+    "date": "2002-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 2,
+    "count": 1296,
+    "rate": 7,
+    "date": "2002-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 3,
+    "count": 1367,
+    "rate": 7.3,
+    "date": "2002-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 4,
+    "count": 1322,
+    "rate": 7.2,
+    "date": "2002-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 5,
+    "count": 1194,
+    "rate": 6.6,
+    "date": "2002-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 6,
+    "count": 1187,
+    "rate": 6.6,
+    "date": "2002-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 7,
+    "count": 1185,
+    "rate": 6.6,
+    "date": "2002-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 8,
+    "count": 1108,
+    "rate": 6.2,
+    "date": "2002-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 9,
+    "count": 1076,
+    "rate": 6.1,
+    "date": "2002-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 10,
+    "count": 1046,
+    "rate": 5.9,
+    "date": "2002-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 11,
+    "count": 1115,
+    "rate": 6.3,
+    "date": "2002-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2002,
+    "month": 12,
+    "count": 1188,
+    "rate": 6.6,
+    "date": "2002-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 1,
+    "count": 1302,
+    "rate": 7.2,
+    "date": "2003-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 2,
+    "count": 1229,
+    "rate": 6.7,
+    "date": "2003-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 3,
+    "count": 1222,
+    "rate": 6.8,
+    "date": "2003-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 4,
+    "count": 1199,
+    "rate": 6.7,
+    "date": "2003-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 5,
+    "count": 1150,
+    "rate": 6.5,
+    "date": "2003-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 6,
+    "count": 1232,
+    "rate": 7,
+    "date": "2003-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 7,
+    "count": 1193,
+    "rate": 6.9,
+    "date": "2003-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 8,
+    "count": 1186,
+    "rate": 6.7,
+    "date": "2003-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 9,
+    "count": 1175,
+    "rate": 6.8,
+    "date": "2003-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 10,
+    "count": 1041,
+    "rate": 6,
+    "date": "2003-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 11,
+    "count": 1034,
+    "rate": 5.9,
+    "date": "2003-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2003,
+    "month": 12,
+    "count": 1025,
+    "rate": 5.9,
+    "date": "2003-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 1,
+    "count": 1110,
+    "rate": 6.4,
+    "date": "2004-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 2,
+    "count": 1094,
+    "rate": 6.3,
+    "date": "2004-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 3,
+    "count": 1083,
+    "rate": 6.3,
+    "date": "2004-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 4,
+    "count": 1004,
+    "rate": 5.8,
+    "date": "2004-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 5,
+    "count": 966,
+    "rate": 5.6,
+    "date": "2004-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 6,
+    "count": 957,
+    "rate": 5.6,
+    "date": "2004-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 7,
+    "count": 1019,
+    "rate": 6,
+    "date": "2004-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 8,
+    "count": 840,
+    "rate": 4.9,
+    "date": "2004-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 9,
+    "count": 852,
+    "rate": 5,
+    "date": "2004-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 10,
+    "count": 884,
+    "rate": 5.3,
+    "date": "2004-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 11,
+    "count": 905,
+    "rate": 5.4,
+    "date": "2004-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2004,
+    "month": 12,
+    "count": 872,
+    "rate": 5.1,
+    "date": "2004-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 1,
+    "count": 889,
+    "rate": 5.3,
+    "date": "2005-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 2,
+    "count": 889,
+    "rate": 5.3,
+    "date": "2005-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 3,
+    "count": 879,
+    "rate": 5.3,
+    "date": "2005-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 4,
+    "count": 793,
+    "rate": 4.8,
+    "date": "2005-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 5,
+    "count": 743,
+    "rate": 4.5,
+    "date": "2005-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 6,
+    "count": 743,
+    "rate": 4.4,
+    "date": "2005-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 7,
+    "count": 883,
+    "rate": 5.3,
+    "date": "2005-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 8,
+    "count": 767,
+    "rate": 4.7,
+    "date": "2005-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 9,
+    "count": 775,
+    "rate": 4.7,
+    "date": "2005-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 10,
+    "count": 800,
+    "rate": 4.8,
+    "date": "2005-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 11,
+    "count": 823,
+    "rate": 4.9,
+    "date": "2005-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2005,
+    "month": 12,
+    "count": 757,
+    "rate": 4.5,
+    "date": "2005-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 1,
+    "count": 778,
+    "rate": 4.6,
+    "date": "2006-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 2,
+    "count": 821,
+    "rate": 4.9,
+    "date": "2006-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 3,
+    "count": 701,
+    "rate": 4.1,
+    "date": "2006-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 4,
+    "count": 745,
+    "rate": 4.5,
+    "date": "2006-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 5,
+    "count": 680,
+    "rate": 4.1,
+    "date": "2006-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 6,
+    "count": 635,
+    "rate": 3.8,
+    "date": "2006-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 7,
+    "count": 736,
+    "rate": 4.4,
+    "date": "2006-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 8,
+    "count": 680,
+    "rate": 4.1,
+    "date": "2006-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 9,
+    "count": 632,
+    "rate": 3.8,
+    "date": "2006-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 10,
+    "count": 618,
+    "rate": 3.7,
+    "date": "2006-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 11,
+    "count": 702,
+    "rate": 4.3,
+    "date": "2006-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2006,
+    "month": 12,
+    "count": 660,
+    "rate": 4,
+    "date": "2006-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 1,
+    "count": 752,
+    "rate": 4.6,
+    "date": "2007-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 2,
+    "count": 774,
+    "rate": 4.7,
+    "date": "2007-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 3,
+    "count": 742,
+    "rate": 4.5,
+    "date": "2007-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 4,
+    "count": 749,
+    "rate": 4.6,
+    "date": "2007-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 5,
+    "count": 651,
+    "rate": 3.9,
+    "date": "2007-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 6,
+    "count": 653,
+    "rate": 4,
+    "date": "2007-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 7,
+    "count": 621,
+    "rate": 3.7,
+    "date": "2007-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 8,
+    "count": 596,
+    "rate": 3.6,
+    "date": "2007-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 9,
+    "count": 673,
+    "rate": 4.1,
+    "date": "2007-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 10,
+    "count": 729,
+    "rate": 4.3,
+    "date": "2007-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 11,
+    "count": 762,
+    "rate": 4.5,
+    "date": "2007-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2007,
+    "month": 12,
+    "count": 772,
+    "rate": 4.6,
+    "date": "2007-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 1,
+    "count": 837,
+    "rate": 5.1,
+    "date": "2008-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 2,
+    "count": 820,
+    "rate": 5,
+    "date": "2008-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 3,
+    "count": 831,
+    "rate": 5,
+    "date": "2008-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 4,
+    "count": 796,
+    "rate": 4.8,
+    "date": "2008-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 5,
+    "count": 879,
+    "rate": 5.3,
+    "date": "2008-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 6,
+    "count": 862,
+    "rate": 5.2,
+    "date": "2008-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 7,
+    "count": 908,
+    "rate": 5.5,
+    "date": "2008-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 8,
+    "count": 960,
+    "rate": 5.7,
+    "date": "2008-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 9,
+    "count": 984,
+    "rate": 6,
+    "date": "2008-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 10,
+    "count": 1007,
+    "rate": 6.2,
+    "date": "2008-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 11,
+    "count": 1144,
+    "rate": 7,
+    "date": "2008-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2008,
+    "month": 12,
+    "count": 1315,
+    "rate": 8.3,
+    "date": "2008-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 1,
+    "count": 1711,
+    "rate": 10.9,
+    "date": "2009-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 2,
+    "count": 1822,
+    "rate": 11.5,
+    "date": "2009-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 3,
+    "count": 1912,
+    "rate": 12.2,
+    "date": "2009-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 4,
+    "count": 1968,
+    "rate": 12.4,
+    "date": "2009-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 5,
+    "count": 2010,
+    "rate": 12.6,
+    "date": "2009-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 6,
+    "count": 2010,
+    "rate": 12.6,
+    "date": "2009-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 7,
+    "count": 1988,
+    "rate": 12.4,
+    "date": "2009-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 8,
+    "count": 1866,
+    "rate": 11.8,
+    "date": "2009-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 9,
+    "count": 1876,
+    "rate": 11.9,
+    "date": "2009-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 10,
+    "count": 1884,
+    "rate": 12.2,
+    "date": "2009-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 11,
+    "count": 1882,
+    "rate": 12.5,
+    "date": "2009-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2009,
+    "month": 12,
+    "count": 1747,
+    "rate": 11.9,
+    "date": "2009-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2010,
+    "month": 1,
+    "count": 1918,
+    "rate": 13,
+    "date": "2010-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Measurement",
+    "year": 2010,
+    "month": 2,
+    "count": 1814,
+    "rate": 12.1,
+    "date": "2010-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 1,
+    "count": 1000,
+    "rate": 5,
+    "date": "2000-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 2,
+    "count": 1023,
+    "rate": 5.2,
+    "date": "2000-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 3,
+    "count": 983,
+    "rate": 5.1,
+    "date": "2000-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 4,
+    "count": 793,
+    "rate": 4.1,
+    "date": "2000-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 5,
+    "count": 821,
+    "rate": 4.3,
+    "date": "2000-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 6,
+    "count": 837,
+    "rate": 4.4,
+    "date": "2000-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 7,
+    "count": 792,
+    "rate": 4.1,
+    "date": "2000-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 8,
+    "count": 853,
+    "rate": 4.3,
+    "date": "2000-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 9,
+    "count": 791,
+    "rate": 4.1,
+    "date": "2000-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 10,
+    "count": 739,
+    "rate": 3.7,
+    "date": "2000-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 11,
+    "count": 701,
+    "rate": 3.6,
+    "date": "2000-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2000,
+    "month": 12,
+    "count": 715,
+    "rate": 3.7,
+    "date": "2000-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 1,
+    "count": 908,
+    "rate": 4.7,
+    "date": "2001-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 2,
+    "count": 990,
+    "rate": 5.2,
+    "date": "2001-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 3,
+    "count": 1037,
+    "rate": 5.4,
+    "date": "2001-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 4,
+    "count": 820,
+    "rate": 4.3,
+    "date": "2001-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 5,
+    "count": 875,
+    "rate": 4.5,
+    "date": "2001-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 6,
+    "count": 955,
+    "rate": 4.9,
+    "date": "2001-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 7,
+    "count": 833,
+    "rate": 4.3,
+    "date": "2001-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 8,
+    "count": 928,
+    "rate": 4.8,
+    "date": "2001-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 9,
+    "count": 936,
+    "rate": 4.8,
+    "date": "2001-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 10,
+    "count": 941,
+    "rate": 4.8,
+    "date": "2001-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 11,
+    "count": 1046,
+    "rate": 5.3,
+    "date": "2001-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2001,
+    "month": 12,
+    "count": 1074,
+    "rate": 5.4,
+    "date": "2001-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 1,
+    "count": 1212,
+    "rate": 6.3,
+    "date": "2002-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 2,
+    "count": 1264,
+    "rate": 6.6,
+    "date": "2002-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 3,
+    "count": 1269,
+    "rate": 6.6,
+    "date": "2002-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 4,
+    "count": 1222,
+    "rate": 6.4,
+    "date": "2002-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 5,
+    "count": 1138,
+    "rate": 5.8,
+    "date": "2002-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 6,
+    "count": 1240,
+    "rate": 6.2,
+    "date": "2002-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 7,
+    "count": 1132,
+    "rate": 5.6,
+    "date": "2002-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 8,
+    "count": 1170,
+    "rate": 5.8,
+    "date": "2002-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 9,
+    "count": 1171,
+    "rate": 5.9,
+    "date": "2002-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 10,
+    "count": 1212,
+    "rate": 6.1,
+    "date": "2002-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 11,
+    "count": 1242,
+    "rate": 6.2,
+    "date": "2002-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2002,
+    "month": 12,
+    "count": 1150,
+    "rate": 5.7,
+    "date": "2002-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 1,
+    "count": 1342,
+    "rate": 6.7,
+    "date": "2003-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 2,
+    "count": 1238,
+    "rate": 6.1,
+    "date": "2003-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 3,
+    "count": 1179,
+    "rate": 5.9,
+    "date": "2003-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 4,
+    "count": 1201,
+    "rate": 6,
+    "date": "2003-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 5,
+    "count": 1247,
+    "rate": 6.2,
+    "date": "2003-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 6,
+    "count": 1434,
+    "rate": 6.9,
+    "date": "2003-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 7,
+    "count": 1387,
+    "rate": 6.6,
+    "date": "2003-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 8,
+    "count": 1161,
+    "rate": 5.6,
+    "date": "2003-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 9,
+    "count": 1229,
+    "rate": 5.9,
+    "date": "2003-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 10,
+    "count": 1189,
+    "rate": 5.7,
+    "date": "2003-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 11,
+    "count": 1156,
+    "rate": 5.4,
+    "date": "2003-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2003,
+    "month": 12,
+    "count": 1081,
+    "rate": 5,
+    "date": "2003-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 1,
+    "count": 1389,
+    "rate": 6.5,
+    "date": "2004-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 2,
+    "count": 1369,
+    "rate": 6.5,
+    "date": "2004-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 3,
+    "count": 1386,
+    "rate": 6.8,
+    "date": "2004-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 4,
+    "count": 1248,
+    "rate": 6.1,
+    "date": "2004-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 5,
+    "count": 1183,
+    "rate": 5.8,
+    "date": "2004-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 6,
+    "count": 1182,
+    "rate": 5.8,
+    "date": "2004-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 7,
+    "count": 1163,
+    "rate": 5.5,
+    "date": "2004-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 8,
+    "count": 1079,
+    "rate": 5.1,
+    "date": "2004-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 9,
+    "count": 1127,
+    "rate": 5.5,
+    "date": "2004-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 10,
+    "count": 1138,
+    "rate": 5.4,
+    "date": "2004-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 11,
+    "count": 1045,
+    "rate": 5,
+    "date": "2004-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2004,
+    "month": 12,
+    "count": 1058,
+    "rate": 5,
+    "date": "2004-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 1,
+    "count": 1302,
+    "rate": 6.3,
+    "date": "2005-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 2,
+    "count": 1301,
+    "rate": 6.2,
+    "date": "2005-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 3,
+    "count": 1173,
+    "rate": 5.6,
+    "date": "2005-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 4,
+    "count": 1131,
+    "rate": 5.4,
+    "date": "2005-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 5,
+    "count": 1145,
+    "rate": 5.4,
+    "date": "2005-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 6,
+    "count": 1197,
+    "rate": 5.7,
+    "date": "2005-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 7,
+    "count": 1194,
+    "rate": 5.6,
+    "date": "2005-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 8,
+    "count": 1130,
+    "rate": 5.3,
+    "date": "2005-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 9,
+    "count": 1038,
+    "rate": 4.9,
+    "date": "2005-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 10,
+    "count": 1050,
+    "rate": 4.9,
+    "date": "2005-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 11,
+    "count": 1013,
+    "rate": 4.7,
+    "date": "2005-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2005,
+    "month": 12,
+    "count": 968,
+    "rate": 4.5,
+    "date": "2005-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 1,
+    "count": 1203,
+    "rate": 5.7,
+    "date": "2006-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 2,
+    "count": 1141,
+    "rate": 5.4,
+    "date": "2006-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 3,
+    "count": 1022,
+    "rate": 4.9,
+    "date": "2006-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 4,
+    "count": 972,
+    "rate": 4.6,
+    "date": "2006-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 5,
+    "count": 1025,
+    "rate": 4.8,
+    "date": "2006-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 6,
+    "count": 1085,
+    "rate": 5.1,
+    "date": "2006-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 7,
+    "count": 1083,
+    "rate": 5.1,
+    "date": "2006-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 8,
+    "count": 977,
+    "rate": 4.7,
+    "date": "2006-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 9,
+    "count": 1008,
+    "rate": 4.9,
+    "date": "2006-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 10,
+    "count": 972,
+    "rate": 4.7,
+    "date": "2006-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 11,
+    "count": 1018,
+    "rate": 4.8,
+    "date": "2006-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2006,
+    "month": 12,
+    "count": 965,
+    "rate": 4.5,
+    "date": "2006-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 1,
+    "count": 1166,
+    "rate": 5.5,
+    "date": "2007-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 2,
+    "count": 1045,
+    "rate": 5.1,
+    "date": "2007-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 3,
+    "count": 896,
+    "rate": 4.4,
+    "date": "2007-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 4,
+    "count": 872,
+    "rate": 4.2,
+    "date": "2007-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 5,
+    "count": 795,
+    "rate": 3.9,
+    "date": "2007-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 6,
+    "count": 979,
+    "rate": 4.6,
+    "date": "2007-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 7,
+    "count": 1089,
+    "rate": 5.2,
+    "date": "2007-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 8,
+    "count": 1028,
+    "rate": 5.1,
+    "date": "2007-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 9,
+    "count": 1027,
+    "rate": 5.1,
+    "date": "2007-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 10,
+    "count": 907,
+    "rate": 4.4,
+    "date": "2007-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 11,
+    "count": 893,
+    "rate": 4.3,
+    "date": "2007-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2007,
+    "month": 12,
+    "count": 1009,
+    "rate": 4.8,
+    "date": "2007-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 1,
+    "count": 1120,
+    "rate": 5.4,
+    "date": "2008-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 2,
+    "count": 1007,
+    "rate": 4.9,
+    "date": "2008-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 3,
+    "count": 992,
+    "rate": 4.9,
+    "date": "2008-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 4,
+    "count": 919,
+    "rate": 4.5,
+    "date": "2008-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 5,
+    "count": 1049,
+    "rate": 5.2,
+    "date": "2008-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 6,
+    "count": 1160,
+    "rate": 5.7,
+    "date": "2008-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 7,
+    "count": 1329,
+    "rate": 6.5,
+    "date": "2008-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 8,
+    "count": 1366,
+    "rate": 6.6,
+    "date": "2008-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 9,
+    "count": 1277,
+    "rate": 6.2,
+    "date": "2008-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 10,
+    "count": 1313,
+    "rate": 6.3,
+    "date": "2008-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 11,
+    "count": 1397,
+    "rate": 6.7,
+    "date": "2008-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2008,
+    "month": 12,
+    "count": 1535,
+    "rate": 7.2,
+    "date": "2008-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 1,
+    "count": 1794,
+    "rate": 8.7,
+    "date": "2009-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 2,
+    "count": 1847,
+    "rate": 8.9,
+    "date": "2009-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 3,
+    "count": 1852,
+    "rate": 9,
+    "date": "2009-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 4,
+    "count": 1833,
+    "rate": 9,
+    "date": "2009-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 5,
+    "count": 1835,
+    "rate": 9,
+    "date": "2009-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 6,
+    "count": 1863,
+    "rate": 9.1,
+    "date": "2009-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 7,
+    "count": 1854,
+    "rate": 9,
+    "date": "2009-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 8,
+    "count": 1794,
+    "rate": 8.8,
+    "date": "2009-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 9,
+    "count": 1809,
+    "rate": 9,
+    "date": "2009-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 10,
+    "count": 1919,
+    "rate": 9.6,
+    "date": "2009-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 11,
+    "count": 1879,
+    "rate": 9.2,
+    "date": "2009-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2009,
+    "month": 12,
+    "count": 1851,
+    "rate": 9.1,
+    "date": "2009-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2010,
+    "month": 1,
+    "count": 2154,
+    "rate": 10.5,
+    "date": "2010-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Procedure",
+    "year": 2010,
+    "month": 2,
+    "count": 2071,
+    "rate": 10,
+    "date": "2010-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 1,
+    "count": 236,
+    "rate": 4.3,
+    "date": "2000-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 2,
+    "count": 223,
+    "rate": 4,
+    "date": "2000-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 3,
+    "count": 192,
+    "rate": 3.5,
+    "date": "2000-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 4,
+    "count": 191,
+    "rate": 3.4,
+    "date": "2000-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 5,
+    "count": 190,
+    "rate": 3.4,
+    "date": "2000-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 6,
+    "count": 183,
+    "rate": 3.2,
+    "date": "2000-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 7,
+    "count": 228,
+    "rate": 3.9,
+    "date": "2000-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 8,
+    "count": 198,
+    "rate": 3.4,
+    "date": "2000-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 9,
+    "count": 231,
+    "rate": 4,
+    "date": "2000-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 10,
+    "count": 153,
+    "rate": 2.8,
+    "date": "2000-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 11,
+    "count": 129,
+    "rate": 2.3,
+    "date": "2000-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2000,
+    "month": 12,
+    "count": 168,
+    "rate": 3.1,
+    "date": "2000-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 1,
+    "count": 194,
+    "rate": 3.6,
+    "date": "2001-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 2,
+    "count": 189,
+    "rate": 3.4,
+    "date": "2001-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 3,
+    "count": 193,
+    "rate": 3.5,
+    "date": "2001-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 4,
+    "count": 232,
+    "rate": 4.2,
+    "date": "2001-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 5,
+    "count": 178,
+    "rate": 3.1,
+    "date": "2001-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 6,
+    "count": 242,
+    "rate": 4.3,
+    "date": "2001-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 7,
+    "count": 236,
+    "rate": 4.2,
+    "date": "2001-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 8,
+    "count": 226,
+    "rate": 3.9,
+    "date": "2001-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 9,
+    "count": 214,
+    "rate": 3.9,
+    "date": "2001-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 10,
+    "count": 321,
+    "rate": 5.8,
+    "date": "2001-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 11,
+    "count": 302,
+    "rate": 5.4,
+    "date": "2001-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2001,
+    "month": 12,
+    "count": 310,
+    "rate": 5.6,
+    "date": "2001-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 1,
+    "count": 368,
+    "rate": 6.6,
+    "date": "2002-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 2,
+    "count": 331,
+    "rate": 5.7,
+    "date": "2002-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 3,
+    "count": 313,
+    "rate": 5.6,
+    "date": "2002-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 4,
+    "count": 280,
+    "rate": 5,
+    "date": "2002-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 5,
+    "count": 257,
+    "rate": 4.5,
+    "date": "2002-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 6,
+    "count": 274,
+    "rate": 4.9,
+    "date": "2002-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 7,
+    "count": 270,
+    "rate": 4.9,
+    "date": "2002-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 8,
+    "count": 221,
+    "rate": 3.9,
+    "date": "2002-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 9,
+    "count": 235,
+    "rate": 4.2,
+    "date": "2002-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 10,
+    "count": 262,
+    "rate": 4.7,
+    "date": "2002-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 11,
+    "count": 233,
+    "rate": 4.2,
+    "date": "2002-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2002,
+    "month": 12,
+    "count": 243,
+    "rate": 4.6,
+    "date": "2002-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 1,
+    "count": 331,
+    "rate": 6.3,
+    "date": "2003-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 2,
+    "count": 316,
+    "rate": 5.8,
+    "date": "2003-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 3,
+    "count": 319,
+    "rate": 5.9,
+    "date": "2003-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 4,
+    "count": 274,
+    "rate": 5,
+    "date": "2003-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 5,
+    "count": 260,
+    "rate": 4.9,
+    "date": "2003-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 6,
+    "count": 300,
+    "rate": 5.5,
+    "date": "2003-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 7,
+    "count": 289,
+    "rate": 5.4,
+    "date": "2003-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 8,
+    "count": 255,
+    "rate": 4.8,
+    "date": "2003-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 9,
+    "count": 255,
+    "rate": 4.7,
+    "date": "2003-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 10,
+    "count": 260,
+    "rate": 4.8,
+    "date": "2003-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 11,
+    "count": 275,
+    "rate": 5.1,
+    "date": "2003-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2003,
+    "month": 12,
+    "count": 267,
+    "rate": 5,
+    "date": "2003-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 1,
+    "count": 243,
+    "rate": 4.6,
+    "date": "2004-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 2,
+    "count": 291,
+    "rate": 5.5,
+    "date": "2004-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 3,
+    "count": 284,
+    "rate": 5.4,
+    "date": "2004-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 4,
+    "count": 239,
+    "rate": 4.5,
+    "date": "2004-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 5,
+    "count": 230,
+    "rate": 4.4,
+    "date": "2004-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 6,
+    "count": 227,
+    "rate": 4.3,
+    "date": "2004-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 7,
+    "count": 231,
+    "rate": 4.3,
+    "date": "2004-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 8,
+    "count": 236,
+    "rate": 4.4,
+    "date": "2004-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 9,
+    "count": 208,
+    "rate": 3.9,
+    "date": "2004-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 10,
+    "count": 219,
+    "rate": 4,
+    "date": "2004-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 11,
+    "count": 217,
+    "rate": 4,
+    "date": "2004-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2004,
+    "month": 12,
+    "count": 204,
+    "rate": 3.8,
+    "date": "2004-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 1,
+    "count": 276,
+    "rate": 5,
+    "date": "2005-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 2,
+    "count": 245,
+    "rate": 4.4,
+    "date": "2005-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 3,
+    "count": 267,
+    "rate": 4.8,
+    "date": "2005-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 4,
+    "count": 257,
+    "rate": 4.7,
+    "date": "2005-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 5,
+    "count": 223,
+    "rate": 4.1,
+    "date": "2005-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 6,
+    "count": 247,
+    "rate": 4.5,
+    "date": "2005-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 7,
+    "count": 222,
+    "rate": 3.9,
+    "date": "2005-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 8,
+    "count": 187,
+    "rate": 3.3,
+    "date": "2005-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 9,
+    "count": 211,
+    "rate": 3.7,
+    "date": "2005-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 10,
+    "count": 251,
+    "rate": 4.4,
+    "date": "2005-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 11,
+    "count": 199,
+    "rate": 3.5,
+    "date": "2005-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2005,
+    "month": 12,
+    "count": 202,
+    "rate": 3.6,
+    "date": "2005-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 1,
+    "count": 287,
+    "rate": 5,
+    "date": "2006-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 2,
+    "count": 260,
+    "rate": 4.6,
+    "date": "2006-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 3,
+    "count": 263,
+    "rate": 4.7,
+    "date": "2006-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 4,
+    "count": 272,
+    "rate": 4.8,
+    "date": "2006-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 5,
+    "count": 226,
+    "rate": 4,
+    "date": "2006-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 6,
+    "count": 225,
+    "rate": 3.9,
+    "date": "2006-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 7,
+    "count": 237,
+    "rate": 4.2,
+    "date": "2006-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 8,
+    "count": 217,
+    "rate": 3.7,
+    "date": "2006-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 9,
+    "count": 183,
+    "rate": 3.1,
+    "date": "2006-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 10,
+    "count": 206,
+    "rate": 3.6,
+    "date": "2006-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 11,
+    "count": 183,
+    "rate": 3.1,
+    "date": "2006-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2006,
+    "month": 12,
+    "count": 190,
+    "rate": 3.2,
+    "date": "2006-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 1,
+    "count": 248,
+    "rate": 4.2,
+    "date": "2007-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 2,
+    "count": 251,
+    "rate": 4.2,
+    "date": "2007-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 3,
+    "count": 249,
+    "rate": 4.3,
+    "date": "2007-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 4,
+    "count": 188,
+    "rate": 3.3,
+    "date": "2007-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 5,
+    "count": 216,
+    "rate": 3.8,
+    "date": "2007-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 6,
+    "count": 242,
+    "rate": 4.1,
+    "date": "2007-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 7,
+    "count": 309,
+    "rate": 5.1,
+    "date": "2007-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 8,
+    "count": 205,
+    "rate": 3.4,
+    "date": "2007-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 9,
+    "count": 224,
+    "rate": 3.7,
+    "date": "2007-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 10,
+    "count": 218,
+    "rate": 3.6,
+    "date": "2007-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 11,
+    "count": 242,
+    "rate": 3.9,
+    "date": "2007-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2007,
+    "month": 12,
+    "count": 210,
+    "rate": 3.4,
+    "date": "2007-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 1,
+    "count": 271,
+    "rate": 4.4,
+    "date": "2008-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 2,
+    "count": 289,
+    "rate": 4.6,
+    "date": "2008-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 3,
+    "count": 267,
+    "rate": 4.3,
+    "date": "2008-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 4,
+    "count": 245,
+    "rate": 4,
+    "date": "2008-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 5,
+    "count": 269,
+    "rate": 4.3,
+    "date": "2008-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 6,
+    "count": 329,
+    "rate": 5.1,
+    "date": "2008-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 7,
+    "count": 359,
+    "rate": 5.7,
+    "date": "2008-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 8,
+    "count": 309,
+    "rate": 5.2,
+    "date": "2008-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 9,
+    "count": 337,
+    "rate": 5.8,
+    "date": "2008-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 10,
+    "count": 316,
+    "rate": 5.7,
+    "date": "2008-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 11,
+    "count": 331,
+    "rate": 5.8,
+    "date": "2008-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2008,
+    "month": 12,
+    "count": 421,
+    "rate": 6.7,
+    "date": "2008-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 1,
+    "count": 522,
+    "rate": 8.4,
+    "date": "2009-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 2,
+    "count": 563,
+    "rate": 9.1,
+    "date": "2009-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 3,
+    "count": 558,
+    "rate": 9,
+    "date": "2009-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 4,
+    "count": 541,
+    "rate": 9,
+    "date": "2009-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 5,
+    "count": 506,
+    "rate": 8.5,
+    "date": "2009-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 6,
+    "count": 499,
+    "rate": 8.4,
+    "date": "2009-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 7,
+    "count": 511,
+    "rate": 8.8,
+    "date": "2009-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 8,
+    "count": 547,
+    "rate": 9.8,
+    "date": "2009-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 9,
+    "count": 538,
+    "rate": 9.5,
+    "date": "2009-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 10,
+    "count": 480,
+    "rate": 8.6,
+    "date": "2009-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 11,
+    "count": 493,
+    "rate": 8.5,
+    "date": "2009-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2009,
+    "month": 12,
+    "count": 539,
+    "rate": 9,
+    "date": "2009-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2010,
+    "month": 1,
+    "count": 657,
+    "rate": 11.3,
+    "date": "2010-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Visit",
+    "year": 2010,
+    "month": 2,
+    "count": 591,
+    "rate": 10.5,
+    "date": "2010-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 1,
+    "count": 125,
+    "rate": 3.4,
+    "date": "2000-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 2,
+    "count": 112,
+    "rate": 2.9,
+    "date": "2000-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 3,
+    "count": 140,
+    "rate": 3.6,
+    "date": "2000-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 4,
+    "count": 95,
+    "rate": 2.4,
+    "date": "2000-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 5,
+    "count": 131,
+    "rate": 3.5,
+    "date": "2000-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 6,
+    "count": 102,
+    "rate": 2.6,
+    "date": "2000-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 7,
+    "count": 144,
+    "rate": 3.6,
+    "date": "2000-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 8,
+    "count": 143,
+    "rate": 3.7,
+    "date": "2000-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 9,
+    "count": 130,
+    "rate": 3.3,
+    "date": "2000-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 10,
+    "count": 96,
+    "rate": 2.4,
+    "date": "2000-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 11,
+    "count": 117,
+    "rate": 3,
+    "date": "2000-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2000,
+    "month": 12,
+    "count": 151,
+    "rate": 4,
+    "date": "2000-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 1,
+    "count": 161,
+    "rate": 4.1,
+    "date": "2001-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 2,
+    "count": 109,
+    "rate": 2.9,
+    "date": "2001-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 3,
+    "count": 148,
+    "rate": 3.8,
+    "date": "2001-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 4,
+    "count": 148,
+    "rate": 3.7,
+    "date": "2001-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 5,
+    "count": 164,
+    "rate": 4.2,
+    "date": "2001-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 6,
+    "count": 163,
+    "rate": 4.1,
+    "date": "2001-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 7,
+    "count": 206,
+    "rate": 5.2,
+    "date": "2001-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 8,
+    "count": 210,
+    "rate": 5.4,
+    "date": "2001-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 9,
+    "count": 219,
+    "rate": 5.6,
+    "date": "2001-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 10,
+    "count": 233,
+    "rate": 6,
+    "date": "2001-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 11,
+    "count": 241,
+    "rate": 6.2,
+    "date": "2001-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2001,
+    "month": 12,
+    "count": 275,
+    "rate": 7.4,
+    "date": "2001-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 1,
+    "count": 263,
+    "rate": 7.1,
+    "date": "2002-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 2,
+    "count": 279,
+    "rate": 7.6,
+    "date": "2002-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 3,
+    "count": 266,
+    "rate": 7.2,
+    "date": "2002-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 4,
+    "count": 257,
+    "rate": 6.9,
+    "date": "2002-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 5,
+    "count": 260,
+    "rate": 7.2,
+    "date": "2002-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 6,
+    "count": 255,
+    "rate": 6.9,
+    "date": "2002-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 7,
+    "count": 264,
+    "rate": 7.1,
+    "date": "2002-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 8,
+    "count": 270,
+    "rate": 7.1,
+    "date": "2002-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 9,
+    "count": 231,
+    "rate": 6.3,
+    "date": "2002-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 10,
+    "count": 211,
+    "rate": 6,
+    "date": "2002-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 11,
+    "count": 220,
+    "rate": 6.5,
+    "date": "2002-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2002,
+    "month": 12,
+    "count": 255,
+    "rate": 7.2,
+    "date": "2002-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 1,
+    "count": 243,
+    "rate": 6.7,
+    "date": "2003-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 2,
+    "count": 321,
+    "rate": 8.6,
+    "date": "2003-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 3,
+    "count": 267,
+    "rate": 7.4,
+    "date": "2003-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 4,
+    "count": 268,
+    "rate": 7.3,
+    "date": "2003-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 5,
+    "count": 251,
+    "rate": 6.9,
+    "date": "2003-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 6,
+    "count": 239,
+    "rate": 6.4,
+    "date": "2003-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 7,
+    "count": 224,
+    "rate": 5.9,
+    "date": "2003-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 8,
+    "count": 224,
+    "rate": 6.1,
+    "date": "2003-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 9,
+    "count": 248,
+    "rate": 7,
+    "date": "2003-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 10,
+    "count": 182,
+    "rate": 5.4,
+    "date": "2003-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 11,
+    "count": 257,
+    "rate": 7.6,
+    "date": "2003-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2003,
+    "month": 12,
+    "count": 224,
+    "rate": 6.5,
+    "date": "2003-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 1,
+    "count": 236,
+    "rate": 7,
+    "date": "2004-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 2,
+    "count": 194,
+    "rate": 5.8,
+    "date": "2004-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 3,
+    "count": 216,
+    "rate": 6.3,
+    "date": "2004-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 4,
+    "count": 168,
+    "rate": 5,
+    "date": "2004-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 5,
+    "count": 190,
+    "rate": 5.7,
+    "date": "2004-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 6,
+    "count": 172,
+    "rate": 5,
+    "date": "2004-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 7,
+    "count": 174,
+    "rate": 5.2,
+    "date": "2004-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 8,
+    "count": 191,
+    "rate": 5.7,
+    "date": "2004-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 9,
+    "count": 178,
+    "rate": 5.4,
+    "date": "2004-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 10,
+    "count": 185,
+    "rate": 5.6,
+    "date": "2004-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 11,
+    "count": 187,
+    "rate": 5.6,
+    "date": "2004-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2004,
+    "month": 12,
+    "count": 173,
+    "rate": 5.7,
+    "date": "2004-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 1,
+    "count": 168,
+    "rate": 5.4,
+    "date": "2005-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 2,
+    "count": 204,
+    "rate": 6.5,
+    "date": "2005-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 3,
+    "count": 177,
+    "rate": 6,
+    "date": "2005-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 4,
+    "count": 178,
+    "rate": 5.9,
+    "date": "2005-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 5,
+    "count": 145,
+    "rate": 4.7,
+    "date": "2005-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 6,
+    "count": 160,
+    "rate": 5,
+    "date": "2005-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 7,
+    "count": 142,
+    "rate": 4.2,
+    "date": "2005-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 8,
+    "count": 156,
+    "rate": 4.6,
+    "date": "2005-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 9,
+    "count": 168,
+    "rate": 4.9,
+    "date": "2005-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 10,
+    "count": 162,
+    "rate": 4.8,
+    "date": "2005-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 11,
+    "count": 172,
+    "rate": 5.1,
+    "date": "2005-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2005,
+    "month": 12,
+    "count": 128,
+    "rate": 3.7,
+    "date": "2005-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 1,
+    "count": 105,
+    "rate": 3.3,
+    "date": "2006-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 2,
+    "count": 119,
+    "rate": 3.7,
+    "date": "2006-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 3,
+    "count": 116,
+    "rate": 3.5,
+    "date": "2006-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 4,
+    "count": 132,
+    "rate": 4.2,
+    "date": "2006-04-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 5,
+    "count": 158,
+    "rate": 4.8,
+    "date": "2006-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 6,
+    "count": 114,
+    "rate": 3.4,
+    "date": "2006-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 7,
+    "count": 103,
+    "rate": 3,
+    "date": "2006-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 8,
+    "count": 132,
+    "rate": 3.9,
+    "date": "2006-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 9,
+    "count": 170,
+    "rate": 4.9,
+    "date": "2006-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 10,
+    "count": 116,
+    "rate": 3.4,
+    "date": "2006-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 11,
+    "count": 137,
+    "rate": 3.9,
+    "date": "2006-11-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2006,
+    "month": 12,
+    "count": 108,
+    "rate": 2.9,
+    "date": "2006-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 1,
+    "count": 143,
+    "rate": 4,
+    "date": "2007-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 2,
+    "count": 139,
+    "rate": 4,
+    "date": "2007-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 3,
+    "count": 109,
+    "rate": 3.2,
+    "date": "2007-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 4,
+    "count": 77,
+    "rate": 2.4,
+    "date": "2007-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 5,
+    "count": 110,
+    "rate": 3.3,
+    "date": "2007-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 6,
+    "count": 114,
+    "rate": 3.4,
+    "date": "2007-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 7,
+    "count": 112,
+    "rate": 3.4,
+    "date": "2007-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 8,
+    "count": 140,
+    "rate": 4.1,
+    "date": "2007-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 9,
+    "count": 124,
+    "rate": 3.7,
+    "date": "2007-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 10,
+    "count": 120,
+    "rate": 3.7,
+    "date": "2007-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 11,
+    "count": 132,
+    "rate": 4,
+    "date": "2007-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2007,
+    "month": 12,
+    "count": 125,
+    "rate": 3.7,
+    "date": "2007-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 1,
+    "count": 169,
+    "rate": 5.1,
+    "date": "2008-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 2,
+    "count": 193,
+    "rate": 5.8,
+    "date": "2008-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 3,
+    "count": 155,
+    "rate": 4.8,
+    "date": "2008-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 4,
+    "count": 143,
+    "rate": 4.4,
+    "date": "2008-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 5,
+    "count": 170,
+    "rate": 5,
+    "date": "2008-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 6,
+    "count": 157,
+    "rate": 4.7,
+    "date": "2008-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 7,
+    "count": 141,
+    "rate": 4.1,
+    "date": "2008-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 8,
+    "count": 144,
+    "rate": 4.2,
+    "date": "2008-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 9,
+    "count": 166,
+    "rate": 5,
+    "date": "2008-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 10,
+    "count": 168,
+    "rate": 5,
+    "date": "2008-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 11,
+    "count": 173,
+    "rate": 5.2,
+    "date": "2008-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2008,
+    "month": 12,
+    "count": 219,
+    "rate": 6.9,
+    "date": "2008-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 1,
+    "count": 232,
+    "rate": 7.4,
+    "date": "2009-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 2,
+    "count": 224,
+    "rate": 7.1,
+    "date": "2009-02-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 3,
+    "count": 252,
+    "rate": 7.8,
+    "date": "2009-03-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 4,
+    "count": 320,
+    "rate": 10.1,
+    "date": "2009-04-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 5,
+    "count": 303,
+    "rate": 9.5,
+    "date": "2009-05-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 6,
+    "count": 347,
+    "rate": 11.1,
+    "date": "2009-06-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 7,
+    "count": 373,
+    "rate": 11.5,
+    "date": "2009-07-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 8,
+    "count": 358,
+    "rate": 10.7,
+    "date": "2009-08-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 9,
+    "count": 362,
+    "rate": 11.2,
+    "date": "2009-09-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 10,
+    "count": 261,
+    "rate": 8.2,
+    "date": "2009-10-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 11,
+    "count": 243,
+    "rate": 7.6,
+    "date": "2009-11-01T07:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2009,
+    "month": 12,
+    "count": 256,
+    "rate": 8.5,
+    "date": "2009-12-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2010,
+    "month": 1,
+    "count": 313,
+    "rate": 10,
+    "date": "2010-01-01T08:00:00.000Z"
+  },
+  {
+    "domain": "Device",
+    "year": 2010,
+    "month": 2,
+    "count": 300,
+    "rate": 10,
+    "date": "2010-02-01T08:00:00.000Z"
+  }
+]
