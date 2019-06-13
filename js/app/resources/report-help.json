@@ -1,0 +1,54 @@
+{
+    "dashboard": {
+        "data-density": {
+            "title": "Data density report",
+            "body": "The data density report shows the composition of all data recorded by year in the database by domain (i.e. condition, drug, etc). This area plot shows how data in a given domain is changing over time in proportion to the other domains in the database."
+        },
+        "mapping-status": {
+            "title": "Mapping Status",
+            "body": "Coming soon"
+        },
+        "year-of-birth": {
+            "title": "Title goes here",
+            "body": "Coming soon"
+        },
+        "gender-distribution-by-age": {
+            "title": "Title goes here",
+            "body": "Coming soon"
+        }
+    },
+    "population": {
+        "at-start-of-observation": {
+            "title": "Title goes here",
+            "body": "Coming soon"
+        },
+        "by-year": {
+            "title": "Population by year",
+            "body": "Shows the population with 5-year age buckets on the central y-axis with the total number of patients along the x-axis. Use the slider to change the year of the data to see the changes in population over time."
+        },
+        "birth-date": {
+            "title": "Title goes here",
+            "body": "Coming soon"
+        },
+        "continuous-observation-by-year": {
+            "title": "Title goes here",
+            "body": "Coming soon"
+        },
+        "cumulative-observation": {
+            "title": "Title goes here",
+            "body": "Coming soon"
+        },
+        "observation-length": {
+            "title": "Title goes here",
+            "body": "Coming soon"
+        },
+        "number-of-observation-periods": {
+            "title": "Title goes here",
+            "body": "Coming soon"
+        },
+        "persons-with-continuous-observation-by-month": {
+            "title": "Title goes here",
+            "body": "Coming soon"
+        }
+    }
+}
