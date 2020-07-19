@@ -1,3 +1,5 @@
+This tool is deprecated and replaced by the Superset solution in the Database Catalogue in the EHDEN portal.
+
 DatabaseDashboard
 ===========
 
@@ -11,7 +13,7 @@ Full study feasibility assessments are out-of-scope. This can be initiated using
 
 Development Status
 ==================
-**This tool is currently under heavy development in the EHDEN project and should not be used.** 
+Archived. Not further developed.
 
 
 
